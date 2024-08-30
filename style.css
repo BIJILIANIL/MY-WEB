@@ -1,0 +1,27 @@
+body{               
+    background-image: url(deo.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 90  vh;
+    
+}
+.contaner{
+    padding-top: 40vh;
+    color: rgb(49, 226, 43);
+    text-align: center;
+    
+}
+.anil-heading{
+    font-family:sans-serif;
+    font-size: 50px;
+    text-shadow: 5px 5px rgb(12, 6, 6);
+
+}
+.button-box{
+    padding: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    color:blue;
+    background-color: pink;
+}
